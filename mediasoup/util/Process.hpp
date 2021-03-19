@@ -6,6 +6,9 @@
 #include <string>
 #include <map>
 
+
+#define MAX_PATH  256 
+
 namespace mediasoup
 {
 

@@ -17,6 +17,7 @@ public:
 		std::cout << "++++++:OnClose" << std::endl;
 	}
 };
+
 int main(int argc, char *argv[])
 {   
     mediasoup::IMediasoup* mediasoup = mediasoup::CreateMediasoup();

@@ -12,3 +12,8 @@ mkdir build && cd build
 cmake ../
 make -j 4
 ```
+
+#### System
+
+- OSX 11.2.3
+- Ubuntu 20.04 LTS
